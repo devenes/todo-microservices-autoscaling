@@ -1,6 +1,6 @@
 # Deploying Microservices and Service Level Autoscaling
 
-Purpose of the this project is to have a sample example of a microservice architecture with service level autoscaling in a Kubernetes cluster of a real world application.
+The goal of this project is to have an example of a service level autoscaling microservice architecture in a Kubernetes real world application cluster.
 
 ## Learning Outcomes
 
